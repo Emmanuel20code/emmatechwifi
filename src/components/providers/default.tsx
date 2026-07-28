@@ -21,3 +21,4 @@ export function DefaultProviders({ children }: { children: React.ReactNode }) {
     </AuthProvider>
   );
 }
+// sync

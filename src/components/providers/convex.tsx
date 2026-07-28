@@ -11,3 +11,4 @@ export function ConvexProvider({ children }: { children: React.ReactNode }) {
     </ConvexProviderWithHerculesAuth>
   );
 }
+// sync
