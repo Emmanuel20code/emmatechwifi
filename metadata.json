@@ -1,0 +1,6 @@
+{
+  "name": "EMMATECH Admin",
+  "description": "An admin portal and user dashboard for EMMATECH, managing packages, payments, vouchers, and devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
