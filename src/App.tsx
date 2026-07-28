@@ -1,6 +1,6 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { DefaultProviders } from "./components/providers/default.tsx";
-import AuthCallback from "./pages/auth/callback.tsx";
+import AuthCallback from "./pages/auth/auth-callback.tsx";
 import Index from "./pages/Index.tsx";
 import NotFound from "./pages/NotFound.tsx";
 import { Authenticated, Unauthenticated, AuthLoading } from "convex/react";
